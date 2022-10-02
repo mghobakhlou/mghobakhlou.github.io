@@ -17,7 +17,7 @@ I am an M.Sc. student in data science at the Tehran institute for advanced studi
 
   
   
-<!-- # News
+# News
 <html>
 <body>
  <hr>
@@ -47,7 +47,7 @@ I am an M.Sc. student in data science at the Tehran institute for advanced studi
 
 </thead>
 
-</table> -->
+</table>
 
 
 
