@@ -44,6 +44,10 @@ I am an M.Sc. student in data science at the Tehran institute for advanced studi
     <th class="tg-wk8r">Oct 2022</th>
     <th class="tg-oe15">I am looking for a PHD position.</th>
   </tr>
+  <tr>
+    <th class="tg-wk8r">Oct 2022</th>
+    <th class="tg-oe15">I am looking for a PHD position.</th>
+  </tr>
 
 </thead>
 
