@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.Sc. student in data science at the Tehran institute for advanced studies(TeIAS), and I am fortunate to be supervised by [Prof. Hossein Hojjat](https://teias.institute/people/faculty/cs/hossein-hojjat/) and [prof. Mohammad Reza Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/). Previously, I completed my B.Sc. at the Sharif University of Technology, where I majored in Computer Engineering. My research interests generally lie in the areas of active automata learning, Model-based testing, and Verification(particularly, model-checking).
+I am an M.Sc student in data science at the Tehran institute for advanced studies(TeIAS), and I am fortunate to be supervised by [Prof. Hossein Hojjat](https://teias.institute/people/faculty/cs/hossein-hojjat/) and [prof. Mohammad Reza Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/). Previously, I completed my B.Sc. at the Sharif University of Technology, where I majored in Computer Engineering. My research interests generally lie in the areas of active automata learning, Model-based testing, and Verification(particularly, model-checking).
 
 **Currently, I am seeking a Ph.D. position. If you are looking for someone to conduct research on, please contact me via email.**
 
