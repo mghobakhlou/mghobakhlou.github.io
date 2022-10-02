@@ -41,24 +41,12 @@ I am an M.Sc. student in data science at the Tehran institute for advanced studi
 </colgroup>
 <thead>
    <tr>
-    <th class="tg-wk8r">Sep 2022</th>
-    <th class="tg-oe15">Our paper <span style="color:#0059b3;">"Fast Optimization of Weighted Sparse Decision Trees for use in Optimal Treatment Regimes and Optimal Policy Design"</span> is accepted to Advances in Interpretable Machine Learning Workshop in CIKM 2022.</th>
+    <th class="tg-wk8r">Oct 2022</th>
+    <th class="tg-oe15">I am looking for a PHD position.</th>
   </tr>
-  <tr>
-    <th class="tg-wk8r">Aug 2022</th>
-    <th class="tg-oe15">Our paper <span style="color:#0059b3;">"CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Network"</span> is accepted to CIKM 2022.</th>
-  </tr>
+
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-wk8r">Jan 2022</td>
-    <td class="tg-oe15">Our paper <span style="color:#0059b3;">"FirmCore Decomposition of Multilayer Networks"</span> is accepted to The ACM Web Conference (WWW) 2022. (acceptance rate 17.7%)</td>
-  </tr>
-  <tr>
-    <td class="tg-wk8r">Sep 2020</td>
-    <td class="tg-oe15">I Joined <a href="https://systopia.cs.ubc.ca/">Systopia Lab</a> at UBC as an MSc student.</td>
-  </tr>
-</tbody>
+
 </table> -->
 
 
