@@ -18,8 +18,12 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "CV"
-    url: https://drive.google.com/file/d/1FOIbY5yQjj4kPxpXjHIUI5K94p-IG-0t/view?usp=sharing
-    
+#   - title: "CV"
+#     url: https://drive.google.com/file/d/1FOIbY5yQjj4kPxpXjHIUI5K94p-IG-0t/view?usp=sharing
+ 
+  - title: "CV - Please Send me Email."
+    url: ""
+
+
 #   - title: "Guide"
 #     url: /markdown/
