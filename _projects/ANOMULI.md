@@ -1,4 +1,4 @@
-
+---
 title: "Anomaly Detection in Multiplex Dynamic Networks"
 collection: projects
 permalink: /projects/ANOMULI
@@ -8,5 +8,5 @@ location: "University of British Columbia"
 
 
 
-We work on an anomaly detection approach that not only detects suspicious behaviours with respect to one type of relationship but also can consider different types of relationships and find anomalous activities of each node with respect to its own type.
+We work on an anomaly detection approach that not only detects suspicious behaviours with respect to one type of relationship but also can consider different types of relationships and find anomalous activities of each node with respect to its own type. 
 
