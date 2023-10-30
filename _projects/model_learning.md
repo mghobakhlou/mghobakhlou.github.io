@@ -1,5 +1,5 @@
 ---
-title: "Automata Learning using the LearnLib Framework"
+title: "Zutomata Learning using the LearnLib Framework"
 collection: projects
 permalink: /projects/model_learning
 venue: ""
