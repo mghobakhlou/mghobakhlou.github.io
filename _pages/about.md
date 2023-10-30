@@ -18,8 +18,11 @@ My research interests generally lie in the areas of Program Synthesis, SDNs, Pro
 <!-- **Currently, I am seeking a Ph.D position. If you are looking for someone to conduct research on, please contact me via email.** -->
 
 
+### Honors
 
-
+* **TeIAS Graduate Scholarship** for Data Science, Tehran, Iran.
+* Ranked **62nd** in M.Sc. National University Examination (top 1\%).
+* Ranked **130th** among more than 240,000 participants in the Iranian Nation-wide University Entrance Exam.
   
   
 <!-- # News
