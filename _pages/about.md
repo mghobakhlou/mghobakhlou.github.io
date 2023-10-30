@@ -11,11 +11,9 @@ redirect_from:
 I am a M.Sc student in Data Science at the [Tehran institute for advanced studies(TeIAS)](https://teias.institute/computer-science-department/),where I am fortunate to be working under the supervision of [Dr. Hossein Hojjat](https://teias.institute/people/faculty/cs/hossein-hojjat/). Previously, I completed my B.Sc. at the [Sharif University of Technology](http://ce.sharif.edu/), where I majored in Computer Engineering.
 
 My research is focused on **Software Defined Networks (SDN)** and their **verification**. SDN offers a revolutionary approach to network management by decoupling the control and data planes. However, this flexibility necessitates rigorous verification to ensure network reliability and security. Through techniques like formal methods and model checking, I aim to validate SDN configurations, ensuring they are both efficient and fault-tolerant. 
-Also I have extensive experience with active model learning algorithms, notably L* and TTT. These algorithms offer systematic methodologies for inferring models from systems based on observed behaviors. Through my work, I've delved into their applications, understanding their strengths and potential limitations. 
+Also I have extensive experience with **active model learning** algorithms, notably L and TTT. These algorithms offer systematic methodologies for inferring models from systems based on observed behaviors. Through my work, I've delved into their applications, understanding their strengths and potential limitations. Al
 
-
-
-<!-- My research interests generally lie in the areas of active automata learning, Model-based testing, and Verification(particularly, model-checking). -->
+My research interests generally lie in the areas of Program Synthesis, SDNs, Programming languages.
 
 <!-- **Currently, I am seeking a Ph.D position. If you are looking for someone to conduct research on, please contact me via email.** -->
 
