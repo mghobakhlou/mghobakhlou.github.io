@@ -72,9 +72,9 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Mohammadreza Ghobakhlou"
   avatar           : "Img.jpg"
-  bio              : 
+  bio              : "Master's Student in Data Science at Tehran Institute for Advanced Studies (TeIAS)"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : 
