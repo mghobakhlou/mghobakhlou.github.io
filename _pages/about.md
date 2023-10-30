@@ -21,7 +21,7 @@ My research interests generally lie in the areas of **Program Synthesis**, **SDN
 ### Honors
 
 * **TeIAS Graduate Scholarship** for Data Science, Tehran, Iran.
-* Ranked **62nd** in M.Sc. National University Examination (top 1\%).
+* Ranked **62nd** in M.Sc. National University Examination (top 1%).
 * Ranked **130th** among more than 240,000 participants in the Iranian Nation-wide University Entrance Exam.
   
   
