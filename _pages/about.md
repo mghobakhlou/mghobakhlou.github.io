@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.Sc student in data science at the Tehran institute for advanced studies(TeIAS), and I am fortunate to be supervised by [Prof. Hossein Hojjat](https://teias.institute/people/faculty/cs/hossein-hojjat/) and [prof. Mohammad Reza Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/). Previously, I completed my B.Sc. at the Sharif University of Technology, where I majored in Computer Engineering.
+I am a M.Sc student in Data Science at the [Tehran institute for advanced studies(TeIAS)](https://teias.institute/computer-science-department/),where I am fortunate to be working under the supervision of [Dr. Hossein Hojjat](https://teias.institute/people/faculty/cs/hossein-hojjat/). Previously, I completed my B.Sc. at the [Sharif University of Technology](http://ce.sharif.edu/), where I majored in Computer Engineering.
+
+My research is focused on **Software Defined Networks (SDN)** and their **verification**. SDN offers a revolutionary approach to network management by decoupling the control and data planes. However, this flexibility necessitates rigorous verification to ensure network reliability and security. Through techniques like formal methods and model checking, I aim to validate SDN configurations, ensuring they are both efficient and fault-tolerant. 
+Also I have extensive experience with active model learning algorithms, notably L* and TTT. These algorithms offer systematic methodologies for inferring models from systems based on observed behaviors. Through my work, I've delved into their applications, understanding their strengths and potential limitations. 
+
+
 
 <!-- My research interests generally lie in the areas of active automata learning, Model-based testing, and Verification(particularly, model-checking). -->
 
-**Currently, I am seeking a Ph.D position. If you are looking for someone to conduct research on, please contact me via email.**
+<!-- **Currently, I am seeking a Ph.D position. If you are looking for someone to conduct research on, please contact me via email.** -->
 
 
 
