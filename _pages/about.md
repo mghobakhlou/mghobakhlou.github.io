@@ -13,7 +13,7 @@ I am a M.Sc student in Data Science at the [Tehran institute for advanced studie
 My research is focused on **Software Defined Networks (SDN)** and their **verification**. SDN offers a revolutionary approach to network management by decoupling the control and data planes. However, this flexibility necessitates rigorous verification to ensure network reliability and security. Through techniques like formal methods and model checking, I aim to validate SDN configurations, ensuring they are both efficient and fault-tolerant. 
 Also I have extensive experience with **active model learning** algorithms, notably L and TTT. These algorithms offer systematic methodologies for inferring models from systems based on observed behaviors. Through my work, I've delved into their applications, understanding their strengths and potential limitations. Al
 
-My research interests generally lie in the areas of Program Synthesis, SDNs, Programming languages.
+My research interests generally lie in the areas of **Program Synthesis**, **SDNs**, **Programming languages**, and **Deep Learning**.
 
 <!-- **Currently, I am seeking a Ph.D position. If you are looking for someone to conduct research on, please contact me via email.** -->
 
