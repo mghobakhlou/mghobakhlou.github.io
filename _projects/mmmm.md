@@ -1,7 +1,7 @@
 ---
 title: "mmm"
 collection: projects
-permalink: /projects/model_learning
+permalink: /projects/mmmm
 venue: ""
 location: "TeIAS"
 ---
