@@ -22,7 +22,7 @@ main:
 #     url: https://drive.google.com/file/d/1FOIbY5yQjj4kPxpXjHIUI5K94p-IG-0t/view?usp=sharing
  
   - title: "CV"
-    url: "/files/Mohammadreza_Ghobakhlou_CV.pdf"
+    url: /files/Mohammadreza_Ghobakhlou_CV.pdf
 
 
 #   - title: "Guide"
