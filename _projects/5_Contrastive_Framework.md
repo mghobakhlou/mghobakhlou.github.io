@@ -6,4 +6,4 @@ venue: ""
 location: ""
 ---
 
-Investigated the performance of the contrastive framework in the task of summarization. Maked the representation space of the language model more isotropic and then used this quality to generate a more diverse text.
+Investigated the performance of the contrastive framework in the task of summarization, making the representation space of the language model more isotropic, which was then leveraged to generate more diverse texts.
