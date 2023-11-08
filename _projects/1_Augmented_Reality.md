@@ -6,4 +6,4 @@ venue: ""
 location: ""
 ---
 
-Derived from the homography the transformation from the reference surface coordinate system to the target image coordinate system and projecting the 3D model in the image (pixel space).
+The transformation is derived from the homography between the reference surface coordinate system and the target image coordinate system, allowing for the projection of the 3D model into the image's pixel space.
