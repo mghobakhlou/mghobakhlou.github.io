@@ -6,4 +6,4 @@ venue: ""
 location: ""
 ---
 
-Combined techniques from the Program Synthesis and Machine Learning communities to extract structured information from heterogeneous data.
+Combined techniques from the Software Synthesis and Machine Learning to extract structured information from heterogeneous data.
