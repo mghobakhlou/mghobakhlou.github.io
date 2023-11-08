@@ -6,4 +6,4 @@ venue: ""
 location: ""
 ---
 
-I implemented in automata learning through the LearnLib framework, specifically leveraging the L* and TTT algorithms for active learning and system verification.
+Experienced in automata learning using the LearnLib framework, specifically employing the L* and TTT algorithms for active learning and system verification.
