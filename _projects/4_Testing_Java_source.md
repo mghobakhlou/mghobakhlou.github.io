@@ -1,5 +1,5 @@
 ---
-title: "Tested Java source code using the Randoop and EvoSuit"
+title: "Tested Java source code using the Randoop and EvoSuite"
 collection: projects
 permalink: /projects/4_Testing_Java_source
 venue: ""
