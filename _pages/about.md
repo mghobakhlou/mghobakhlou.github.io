@@ -20,10 +20,10 @@ My research interests generally lie in the areas of **Program Synthesis**, **SDN
 
 ### Honors
 
-* **Ranked 3rd** in cumulative GPA at TeIAS Computer Engineering Department, 2021 beginners.
+* **Ranked 3rd** in cumulative GPA at TeIAS Computer Engineering Department among 2021 entrants.
 * **TeIAS Graduate Scholarship** for Data Science, Tehran, Iran.
-* Ranked **62nd** among 100,000 participants in the Iranian Nation-wide University Entrance Exam for M.Sc..
-* Ranked **130th** among more than 240,000 participants in the Iranian Nation-wide University Entrance Exam for B.Sc.
+* Ranked **62nd** among 100,000 participants in the Iranian Nationwide University Entrance Exam for M.Sc..
+* Ranked **130th** among more than 240,000 participants in the Iranian Nationwide University Entrance Exam for B.Sc.
   
   
 <!-- # News
