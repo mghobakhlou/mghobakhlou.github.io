@@ -1,5 +1,5 @@
 ---
-title: "New York City taxi trip duration prediction"
+title: "New York City Taxi Trip Duration Prediction"
 collection: projects
 permalink: /projects/2_duration_prediction
 venue: ""
