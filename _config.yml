@@ -74,10 +74,7 @@ analytics:
 author:
   name             : "Mohammadreza Ghobakhlou"
   avatar           : "Img.jpg"
-  bio              : |
-    AI Engineer
-    M.Sc. in Data Science, Tehran Institute for Advanced Studies (TeIAS)
-    B.Sc. in Computer Science, Sharif University of Technology (SUT)
+  bio              : "AI Engineer - Data Scientist"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : 
