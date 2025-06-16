@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.Sc. student in Data Science at [Tehran institute for advanced studies (TeIAS)](https://teias.institute/computer-science-department/), where I am fortunate to be working under the supervision of [Dr. Hossein Hojjat](https://teias.institute/people/faculty/cs/hossein-hojjat/). Previously, I completed my B.Sc. at [Sharif University of Technology](http://ce.sharif.edu/), where I majored in Computer Engineering.
 
-My research is focused on **Software Defined Networks (SDNs)** and their **verification**. SDNs offer a revolutionary approach to network management by decoupling the control and data planes. However, this flexibility necessitates rigorous verification to ensure network reliability and security. Through techniques like formal methods and model checking, I aim to validate SDN configurations, ensuring they are both efficient and fault-tolerant. 
+I am deeply passionate about AI Engineering, with specialized expertise in Knowledge Graphs, AI Agents, and Large Language Models (LLMs). My abilities center on harnessing these advanced technologies to address complex challenges and foster innovation, blending theoretical insights with practical applications to drive impactful solutions.
+
+Professionally, I serve as a **Business Intelligence Analyst** at an international trading company, where I leverage data science to optimize business operations. My responsibilities include analyzing company performance, developing and enhancing CRM systems, and managing ETL processes to streamline data migration. By evaluating business processes and KPIs, integrating AI capabilities for automation and insights, and designing interactive dashboards for real-time tracking, I support data-driven decision-making and contribute to the company’s mission of expanding global trade with efficiency and transparency.
+
+Academically, I hold a **Master of Science in Data Science** from the [Tehran institute for advanced studies (TeIAS)](https://teias.institute/computer-science-department/), where I had the privilege of working under the supervision of Dr. Hossein Hojjat. My thesis, **FPSDN: Fault Prediction in Software-Defined Networks**, introduced a pioneering tool for proactive fault detection in SDNs. Leveraging the DyNetKAT framework, I developed FPSDN to analyze OpenFlow logs and predict network faults, achieving a 98.43% reduction in packet volume during preprocessing while enhancing network reliability and security. 
 Also, I have extensive experience with **Active Model Learning** algorithms, notably L* and TTT algorithms. These algorithms offer systematic methodologies for inferring models from systems based on observed behaviors. Through my work, I've delved into their applications, understanding their strengths, and potential limitations.
+Additionally, I earned a **Bachelor of Science in Computer Science** from [Sharif University of Technology](http://ce.sharif.edu/), majoring in Computer Engineering, which laid a robust foundation for my technical pursuits.
 
-My research interests generally lie in the areas of **Program Synthesis**, **SDNs**, **Programming Languages**, and **Deep Learning**.
 
-<!-- **Currently, I am seeking a Ph.D position. If you are looking for someone to conduct research on, please contact me via email.** -->
+My interests generally lie in the areas of **AI Engineering**, **Knowledge Graphs**, **LLMs**, and **AI Agents**.
 
 
 ### Honors
-
+* **Secured 2nd** Place in the Decode Cup Contest 2024
 * **Ranked 3rd** in cumulative GPA at TeIAS Computer Engineering Department among 2021 entrants.
 * **TeIAS Graduate Scholarship** for Data Science, Tehran, Iran.
 * **Ranked 62nd** among more than 100,000 participants in the Iranian Nationwide University Entrance Exam for M.Sc..
