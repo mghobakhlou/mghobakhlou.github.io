@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am an AI Engineer with over 3 years of professional experience, deeply passionate about leveraging advanced technologies to solve complex challenges and drive innovation. My expertise spans Knowledge Graphs, AI Agents, and Large Language Models (LLMs), complemented by extensive knowledge of deep learning, natural language processing, and machine learning frameworks such as PyTorch, TensorFlow, Keras, and Scikit-Learn. I specialize in developing, training, and deploying AI models to production systems, as well as building custom APIs and web applications. By blending theoretical insights with practical applications, I create impactful, optimized AI-based solutions that foster innovation and address real-world needs.
 
-I am deeply passionate about AI Engineering, with specialized expertise in Knowledge Graphs, AI Agents, and Large Language Models (LLMs). My abilities center on harnessing these advanced technologies to address complex challenges and foster innovation, blending theoretical insights with practical applications to drive impactful solutions.
 
 Professionally, I serve as a **Business Intelligence Analyst** at an international trading company, where I leverage data science to optimize business operations. My responsibilities include analyzing company performance, developing and enhancing CRM systems, and managing ETL processes to streamline data migration. By evaluating business processes and KPIs, integrating AI capabilities for automation and insights, and designing interactive dashboards for real-time tracking, I support data-driven decision-making and contribute to the company’s mission of expanding global trade with efficiency and transparency.
 
